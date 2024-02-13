@@ -1,2 +1,2 @@
-# PreCourse-Henry
-Este es un repositorio de prueba del modulo 2 del precourse de Henery
+Este documento es una pruena de como creear un repositorio y clonarlo desde hit-hub a mi escritorio local
+
